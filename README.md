@@ -1,1 +1,0 @@
-# Calcula-tu-Ganancia-Demo

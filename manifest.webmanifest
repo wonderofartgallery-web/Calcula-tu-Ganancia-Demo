@@ -1,0 +1,30 @@
+{
+  "name": "Calcula tu Ganancia",
+  "short_name": "Mi Ganancia",
+  "description": "Calcula precios y organiza tu negocio con datos guardados en este dispositivo.",
+  "start_url": "/Calcula-tu-Ganancia-Demo/",
+  "scope": "/Calcula-tu-Ganancia-Demo/",
+  "display": "standalone",
+  "background_color": "#081427",
+  "theme_color": "#081427",
+  "icons": [
+    {
+      "src": "/Calcula-tu-Ganancia-Demo/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/Calcula-tu-Ganancia-Demo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Calcula-tu-Ganancia-Demo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
